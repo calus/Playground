@@ -12,6 +12,8 @@ namespace WorkflowConsoleApplication1
         {
             Activity workflow1 = new Workflow1();
             WorkflowInvoker.Invoke(workflow1);
+
+            //dette er en test
         }
     }
 }
